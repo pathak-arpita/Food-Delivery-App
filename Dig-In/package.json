@@ -1,0 +1,32 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "Food ordering site",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Arpita Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathak-arpita/Food_App/issues"
+  },
+  "homepage": "https://github.com/pathak-arpita#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@iconscout/react-unicons": "^1.1.6",
+    "@reduxjs/toolkit": "^1.9.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.7.0"
+  }
+}
