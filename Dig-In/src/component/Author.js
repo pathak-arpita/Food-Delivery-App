@@ -10,7 +10,7 @@ const Author = () => {
             </div>
             <div className="author-container">
                 <h1>ARPITA PATHAK</h1>
-                <p>{<UilGithub />}<a href="https://github.com/pathak-arpita" target="_blank"><b>Github</b></a></p>
+                <p>{<UilGithub />}<a href="https://github.com/pathak-arpita/Food-Delivery-App" target="_blank"><b>Github</b></a></p>
                 <p>{<UilLinkedin />}<a href="https://www.linkedin.com/in/arpita-pathak-825a7a1b1" target="_blank"><b>LinkedIn</b></a></p>
             </div>
         </div >
